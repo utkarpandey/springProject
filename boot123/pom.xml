@@ -3,14 +3,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.utkarpandey.springProject</groupId>
+	<groupId>com.github.utkarpandey.springProject.tree.master</groupId>
 	<artifactId>boot123</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>boot123</name>
 	<description>this is a sample project for loading to maven central repo</description>
-	<url>https://github.com/utkarpandey/springProject</url>
+	<url>https://github.com/utkarpandey/springProject/tree/master/boot123</url>
 
 	<licenses>
 		<license>
@@ -24,15 +24,15 @@
 		<developer>
 			<name>utkarsh pandey</name>
 			<email>utkarpandey@deloitte.com</email>
-			<organization>com.github.utkarpandey</organization>
-			<organizationUrl>https://github.com/utkarpandey/springProject</organizationUrl>
+			<organization>com.github.utkarpandey.springProject</organization>
+			<organizationUrl>https://github.com/utkarpandey/springProject/tree/master/boot123</organizationUrl>
 		</developer>
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/utkarpandey/springProject.git</connection>
-		<developerConnection>scm:git:ssh://github.com:utkarpandey/springProject.git</developerConnection>
-		<url>https://github.com/utkarpandey/springProject</url>
+		<connection>scm:git:git://github.com/utkarpandey/springProject/tree/master/boot123.git</connection>
+		<developerConnection>scm:git:ssh://github.com/utkarpandey/springProject/tree/master/boot123.git</developerConnection>
+		<url>https://github.com/utkarpandey/springProject/tree/master/boot123</url>
 	</scm>
 
 	<properties>
